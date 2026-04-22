@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Bruno 👋
 
-<!--
-**BrunoKrysiak/BrunoKrysiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Software Engineering student at 42 Warsaw.  
+Building strong foundations in C, Python and problem solving.  
+Interested in AI systems and workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Student at 42 Warsaw
+- 💻 Learning C, Python and Web Development
+- 🧠 Focused on understanding how systems work under the hood
+- 🤖 Exploring AI pipelines, workflows and automation
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** C, Python (learning), HTML, CSS
+- **Tools:** Linux, Git, VS Code
+- **Concepts:** Algorithms, problem solving, system thinking, web fundamentals
+
+---
+
+## 🎯 Current Focus
+- Improving C skills (42 projects & exams)
+- Learning Python for future AI work
+- Developing web development skills
+- Building real-world portfolio projects
+
+---
+
+⭐ *This profile is actively being developed as I grow in AI and software engineering.*
